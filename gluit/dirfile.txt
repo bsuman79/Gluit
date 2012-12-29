@@ -1,0 +1,10 @@
+/Users/Suman/backup/research/sz_laurie/SZcl.T08.s8=0.9
+/Users/Suman/backup/research/sz_laurie/SZgas_cov.c
+/Users/Suman/backup/research/sz_laurie/jnk/SZv1.txt
+/Users/Suman/backup/research/sz_laurie/prev1.pdf
+/Users/Suman/backup/research/sz_laurie/SZ.eps
+/Users/Suman/backup/research/sz_laurie/jnk/SZv1.txt
+/Users/Suman/cfitsio
+/Users/Suman/cfitsio/README
+/Users/Suman/backup/research/sz_laurie/output_cib/cibvar.txt
+/Users/Suman/backup/research/sz_laurie/output_cib/cibv1.txt
