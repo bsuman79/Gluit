@@ -1,0 +1,10 @@
+#!/bin/bash
+export GLUPATH="$HOME/GluIt/gluit"
+alias shownotes="python $GLUPATH/shownotes.py"
+alias sn="shownotes"
+alias cpnotes="python $GLUPATH/cpnotes.py"
+alias cn="cpnotes"
+alias mvnotes="python $GLUPATH/mvnotes.py"
+alias mn="mvnotes"
+alias delnotes="python $GLUPATH/delnotes.py"
+alias dn="delnotes"
