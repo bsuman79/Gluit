@@ -1,10 +1,9 @@
 =========
 GluIt 
+
+Author: Suman bhattacharya
 =========
 GluIt is a package  built using Python that help create and manage notes for  files. The notes are linked to that file and  thus the notes created can be found easily. The current version works on the terminal as a command line interface.
-
-
-For documentation and installation instructions, see
 
 GluIt is released under the MIT software liscense (see LISCENSE).
 
