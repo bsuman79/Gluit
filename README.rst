@@ -12,7 +12,7 @@ GluIt is released under the MIT software liscense (see LISCENSE).
 Motivation
 ----------
 
-Just like we can stick notes to files in physical world containing informations or instructions about that file, I wanted to create a similar utility for the files in our computers. Something that will allow us to create small notes about the files and that will stick to it.
+Just like we can stick notes to files in real world containing informations or instructions about that file, I wanted to create a similar utility for the files in our computers. Something that will allow us to create small notes about the files and that will stick to it.
 
 Example
 -------
